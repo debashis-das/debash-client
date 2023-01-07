@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/debash-client/static/css/main.073c9b0a.css",
-    "main.js": "/debash-client/static/js/main.5c0fd74b.js",
+    "main.css": "/debash-client/static/css/main.e3888843.css",
+    "main.js": "/debash-client/static/js/main.7ca04ec8.js",
     "static/js/787.1962becb.chunk.js": "/debash-client/static/js/787.1962becb.chunk.js",
-    "static/media/logo.svg": "/debash-client/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background.jpg": "/debash-client/static/media/background.111c74a8c12e629c1d95.jpg",
+    "static/media/card.png": "/debash-client/static/media/card.b1f22d893b4f5872ac28.png",
+    "static/media/resume.pdf": "/debash-client/static/media/resume.940a8029058ed2428b6c.pdf",
+    "static/media/profile.jpeg": "/debash-client/static/media/profile.a0dcfbd7711a1c6173e1.jpeg",
     "index.html": "/debash-client/index.html",
-    "main.073c9b0a.css.map": "/debash-client/static/css/main.073c9b0a.css.map",
-    "main.5c0fd74b.js.map": "/debash-client/static/js/main.5c0fd74b.js.map",
+    "main.e3888843.css.map": "/debash-client/static/css/main.e3888843.css.map",
+    "main.7ca04ec8.js.map": "/debash-client/static/js/main.7ca04ec8.js.map",
     "787.1962becb.chunk.js.map": "/debash-client/static/js/787.1962becb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5c0fd74b.js"
+    "static/css/main.e3888843.css",
+    "static/js/main.7ca04ec8.js"
   ]
 }
